@@ -25,19 +25,19 @@ Các công việc chính:
 -	Viết báo cáo:Tổng kết kết quả quá trình thực hiện và làm việc nhóm.
 III.Phân chia các công việc cụ thể 
 1.Phân chia công việc
-Côngviệc/Thành viên	             Nguyệt	 Quyên	 LanAnh	 Uyên	Duyên
-Phân tích mục tiêu và yêu cầu	    x	   x      x	      x	      x
-Thiết kế hệ thống	                x	   x	  x	      x	      x
-Lập trình và triển khai	            x	   x	  x	      x	      x	
-Kiểm thử	                        x	   x	  x	      x	      x
-Viết báo cáo	                    x	   x	  x	      x	      x
+|Côngviệc/Thành viên|	             |Nguyệt	 |Quyên	 |LanAnh	 |Uyên	|Duyên|
+|Phân tích mục tiêu và yêu cầu|	    |x	  | x      |x	      |x	      |x|
+|Thiết kế hệ thống|	                |x	   |x	  |x	      |x	      |x|
+|Lập trình và triển khai|	            |x	   |x	  |x	      |x	      |x|	
+|Kiểm thử|	                        |x	   |x	  |x	      |x	      |x|
+|Viết báo cáo|	                    |x	   |x	  |x	      |x	      |x|
 2.Thời gian hoàn thành dự kiến:
-Công việc	Thời gian hoàn thành dự kiến
-Phân tích mục tiêu và yêu cầu	1 tuần
-Thiết kế hệ thống	1 tuần
-Lập trình và triển khai	2 tuần
-Kiểm thử	1 tuần
-Viết báo cáo	1 tuần
+Công việc	                       Thời gian hoàn thành dự kiến
+Phân tích mục tiêu và yêu cầu	              1 tuần
+Thiết kế hệ thống	                          1 tuần
+Lập trình và triển khai	                      2 tuần
+Kiểm thử	                                  1 tuần
+Viết báo cáo	                              1 tuần 
 IV:Các công cụ và phần mềm sử dụng
 Công cụ phát triển
 -	Frontend: HTML, CSS, JavaScript.
