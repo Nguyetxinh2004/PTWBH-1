@@ -1,0 +1,49 @@
+                                KẾ HOẠCH THỰC HIỆN ĐỀ TÀI
+I.Giới thiệu
+Tên đề tài:Phát triển website bán hàng online
+Giới thiệu: Website bán hàng là một nền tảng thương mại điện tử trực tuyến, đóng vai trò quan trọng trong việc thúc đẩy doanh thu và tạo ra lợi nhuận cho các doanh nghiệp. Nó không chỉ giúp tối ưu hóa quy trình giao dịch mà còn tạo ra một kênh giao tiếp hiệu quả giữa người bán và người tiêu dùng. Website bán hàng mang đến sự thuận tiện và linh hoạt, giúp người tiêu dùng có thể mua sắm mọi lúc, mọi nơi mà không bị giới hạn về thời gian hay không gian.
+Với khả năng kinh doanh đa dạng các mặt hàng, từ sản phẩm tiêu dùng hàng ngày đến các sản phẩm cao cấp, website bán hàng không chỉ dễ dàng tiếp cận với khách hàng ở bất kỳ đâu mà còn mở rộng phạm vi thị trường một cách nhanh chóng. Không giống như cửa hàng truyền thống, website không bị giới hạn về không gian trưng bày hay số lượng sản phẩm, giúp người bán có thể giới thiệu, cập nhật và bán hàng một cách linh hoạt.
+Các sản phẩm trên website thường được mô tả chi tiết với thông tin đầy đủ về chất lượng, tính năng, giá cả, hình ảnh và các đánh giá từ khách hàng trước đó. Điều này giúp người tiêu dùng dễ dàng tìm kiếm và lựa chọn sản phẩm phù hợp với nhu cầu và sở thích cá nhân mà không cần phải đến tận nơi xem sản phẩm.
+Ngoài ra, website bán hàng còn hỗ trợ nhiều phương thức thanh toán linh hoạt (thanh toán qua thẻ tín dụng, chuyển khoản ngân hàng, ví điện tử, hoặc thu tiền khi giao hàng), cùng với các công cụ hỗ trợ vận chuyển nhanh chóng và chính xác, đảm bảo trải nghiệm mua sắm của khách hàng luôn thuận tiện và an toàn.
+Với những tính năng này, website bán hàng không chỉ mang lại lợi ích cho người tiêu dùng mà còn là một công cụ quan trọng giúp các doanh nghiệp tối ưu hóa chi phí, nâng cao hiệu quả kinh doanh và gia tăng lợi nhuận một cách bền vững.
+II.Mục tiêu và kế hoạch chung
+Mục tiêu:Xây dựng một website bán hàng với đầy đủ các chức năng cơ bản cần thiết :
+-	Trang chủ
+-	Đăng ký tài khoản  
+-	Đăng nhập tài khoản
+-	Danh mục sản phẩm
+-	Trang chi tiết sản phẩm
+-	Tìm kiếm sản phẩm
+-	Giỏ hàng
+-	Thanh toán
+-	Quản lý đơn hàng
+Các công việc chính:
+-	Phân tích các mục tiêu và yêu cầu: Tìm hiểu về các vấn đề liên quan đến đề tài 
+-	Thiết kế hệ thống : Thiết kế cấu trúc của website , giao diện người dùng và các chức năng của hệ thống.
+-	Lập trình và triển khai: Bắt đầu việc làm mã nguồn , tạo các trang web động, các tính năng giỏ hàng và thanh toán trực tuyến.
+-	Kiểm thử:Kiểm tra bổ sung hoàn chỉnh trang web đảm bảo hệ thống hoạt động ổn định kiểm tra các tính năng.
+-	Viết báo cáo:Tổng kết kết quả quá trình thực hiện và làm việc nhóm.
+III.Phân chia các công việc cụ thể 
+1.Phân chia công việc
+Côngviệc/Thành viên	Nguyệt	Quyên	Lan Anh	Uyên	Duyên
+Phân tích mục tiêu và yêu cầu	x	x	x	x	x
+Thiết kế hệ thống	x	x	x	x	x
+Lập trình và triển khai	x	x	x	x	x	
+Kiểm thử	x	x	x	x	x
+Viết báo cáo	x	x	x	x	x
+2.Thời gian hoàn thành dự kiến:
+Công việc	Thời gian hoàn thành dự kiến
+Phân tích mục tiêu và yêu cầu	1 tuần
+Thiết kế hệ thống	1 tuần
+Lập trình và triển khai	2 tuần
+Kiểm thử	1 tuần
+Viết báo cáo	1 tuần
+IV:Các công cụ và phần mềm sử dụng
+Công cụ phát triển
+-	Frontend: HTML, CSS, JavaScript.
+-	Backend: Node.js, Java.
+-	Cơ sở dữ liệu: MySQL.
+-	Thanh toán: Stripe.
+
+.
+
